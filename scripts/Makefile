@@ -1,5 +1,7 @@
 .ONESHELL:
 .SILENT:
+help:
+	cat ../README.md
 meta:
 	cd ../tmp
 	../scripts/meta.sh 
