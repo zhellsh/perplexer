@@ -13,7 +13,7 @@ Perplexer will inject metadata from YouTube.
 
 What? You don't have a YouTube playlist? That is fine! Just use tunemymusic.com (#NOTSPON) to convert the playlist! Then, simply clone perplexer with
 ```
-git clone https://zhellsh/perplexer.git
+git clone https://github.com/zhellsh/perplexer.git
 ```
 Then, just run: 
 ```
