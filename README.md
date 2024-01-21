@@ -30,5 +30,5 @@ The scripts expect the files to be in this layout:
 ├── missing // File that contains missing songs
 ├── music // Plex Library Folder (If Plex is used) 
 ├── scripts // Folder where scripts are
-└── tmp // Folder used while downloading songs or if Plex isn't used.
+└── tmp // Folder used while downloading songs, or if Plex isn't used, as file storage.
 ```
