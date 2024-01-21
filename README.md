@@ -11,7 +11,11 @@ You read that right! Perplexer can download, and sort your playlists into folder
 
 Perplexer will inject metadata from YouTube. 
 
-What? You don't have a YouTube playlist? That is fine! Just use tunemymusic.com (#NOTSPON) to convert the playlist! Then, simply download our scripts folder and place it where ever! Just run 
+What? You don't have a YouTube playlist? That is fine! Just use tunemymusic.com (#NOTSPON) to convert the playlist! Then, simply clone perplexer with
+```
+git clone https://zhellsh/perplexer.git
+```
+Then, just run: 
 ```
 export id='[YouTube-Playlist-ID]' // You can find the playlist id after &list: https://www.youtube.com/watch?v=XXXXXXXXXXX&list=PL*
 export loc='[Plex-Library-Location or Output-Path]'
