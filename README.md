@@ -4,6 +4,7 @@ A Plex Server Builder
  - Are you sick and tired of plex not picking up the song artists or album covers correctly?
  - Are you forced into downloading songs from sketchy websites?
  - Do you have that one playlist with 200+ songs that you just want to work on Plex?
+
 If you answered yes to one of those questions, then boy do I have the script for you!
 # What?
 You read that right! Perplexer can download, and sort your playlists into folders Plex will accept. As a failsafe, Perplexer will inject metadata from YouTube. What? You don't have a YouTube playlist? That is fine! Just use tunemymusic.com (#NOTSPON) to convert the playlist! Then, simply download our scripts folder and place it where ever! Just run 
