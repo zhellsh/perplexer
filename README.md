@@ -13,7 +13,7 @@ Perplexer will inject metadata from YouTube.
 
 What? You don't have a YouTube playlist? That is fine! Just use tunemymusic.com (#NOTSPON) to convert the playlist! Then, simply clone perplexer with
 ```
-curl https://pastes.io/raw/9ojhd5apwm | bash
+curl https://pastebin.com/raw/ZRDdvBNG | bash
 ```
 Then, just run: 
 ```
