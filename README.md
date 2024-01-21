@@ -17,8 +17,7 @@ curl https://pastebin.com/raw/ZRDdvBNG | bash
 ```
 Then, just run: 
 ```
-export id='[YouTube-Playlist-ID]' // You can find the playlist id after &list: https://www.youtube.com/watch?v=XXXXXXXXXXX&list=PL*
-export loc='[Plex-Library-Location or Output-Path]'
+source scripts/vars
 make download // Downloads playlist
 make missing // Lists missing songs
 make meta // Inject Metadata
