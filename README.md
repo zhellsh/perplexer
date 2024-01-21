@@ -19,6 +19,7 @@ make download // Downloads playlist
 make missing // Lists missing songs
 make meta // Inject Metadata
 make plex // Sort mp3s into folder layout Plex can read
+make clean // Remove tmp/
 ```
 However, If you happen to have other songs from external media, place them in a folder named ext/ and run make external, then continue from make meta above
 
